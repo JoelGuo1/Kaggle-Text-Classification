@@ -28,3 +28,4 @@ I did not perform the usual text data pre-processing such as removing stop-words
 
 # Results and Achievement
 My linear SVM achieved around 80% accuracy, which ranked #8 overall.
+![GitHub Logo](/images/logo.png)
